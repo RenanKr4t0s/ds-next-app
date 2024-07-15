@@ -7,6 +7,9 @@
 
 ## Estamos utilizando
 - WireFrame => https://www.canva.com/design/DAGKe49utsw/qLs0P_raTmR26nHD7Qxi6A/edit
+- Redes da Loja:
+    - Facebook :
+    - Instagram:
 
 
 ### Textos para o site:
