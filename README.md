@@ -1,6 +1,8 @@
 # ds-presentes
 ds-presentes é um projeto desenvolvido em Next.js para criar uma landing page de divulgação da loja de flores. Este projeto visa proporcionar uma experiência visual atraente para apresentar os produtos e serviços da empresa.
 
+Salvando agora uma cópia em Next para mudar a stack do projeto.
+
 ## Pendencias
 Enquanto estamos trabalhando no projeto as notas e requisitos estão no pendencias.md
 
