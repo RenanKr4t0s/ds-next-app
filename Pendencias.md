@@ -1,6 +1,13 @@
 # Em produção
 ### A fazer
 - vamos recriar um manifest.json?
+- Criar 1 componente e seu conteúdo
+- Criar 1 componente e seu conteúdo
+- Criar 1 componente e seu conteúdo
+- Criar 1 componente e seu conteúdo
+- Criar 1 componente e seu conteúdo
+- Criar 1 componente e seu conteúdo
+- Como faz a navbar ir pra o componente?
 
 ### Feitos
 - Criar repositório no GitHub
@@ -11,9 +18,7 @@
 
 ## Estamos utilizando
 - WireFrame => https://www.canva.com/design/DAGKe49utsw/qLs0P_raTmR26nHD7Qxi6A/edit
-- Redes da Loja:
-    - Facebook :
-    - Instagram:
+- Redes da Loja: No componente Contacts
 
 
 ### Textos para o site:

@@ -1,0 +1,17 @@
+:root{
+  --cor-primaria: #95628f;
+  --cor-secundaria: #f8ede9;
+  --cor-terciaria: #49274a;
+  --cor-hoover: #fff
+}
+.custom-nav{
+  /* background-color:var(--cor-primaria); */
+}
+.custom-nav__itens{
+  font-size: 1.5rem;
+}
+.custom-nav__itens:hover{
+  color: var(--cor-terciaria);
+  font-weight: 500;
+  text-decoration: underline;
+}

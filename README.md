@@ -11,9 +11,8 @@ Enquanto estamos trabalhando no projeto as notas e requisitos estão no pendenci
 
 ## Tecnologias Utilizadas
 
-- [Next.js](https://nextjs.org/) - Um framework React para produção.
 - [React](https://reactjs.org/) - Uma biblioteca JavaScript para construir interfaces de usuário.
-- [Material UI](https://mui.com/) - Um framework de componentes de interface de usuário para React.
+- [Bootstrap](https://getbootstrap.com/) - Um framework de código aberto para desenvolvimento de interfaces web responsivas e móveis.
 
 ## Funcionalidades
 
