@@ -1,4 +1,8 @@
 # Em produção
+### A fazer
+- vamos recriar um manifest.json?
+
+### Feitos
 - Criar repositório no GitHub
 - Subir essa base para começar
 - Criar componente navbar
