@@ -8,6 +8,8 @@
 - Criar 1 componente e seu conteúdo
 - Criar 1 componente e seu conteúdo
 - Como faz a navbar ir pra o componente?
+- Atualizar estrutura no readme
+
 
 ### Feitos
 - Criar repositório no GitHub

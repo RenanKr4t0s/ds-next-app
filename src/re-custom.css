@@ -15,3 +15,18 @@
   font-weight: 500;
   text-decoration: underline;
 }
+.custom_box{
+  background-color: var(--cor-terciaria);
+  width: 100vw;
+}
+
+.custom-fancyTipo{
+  color: var(--cor-secundaria);
+}
+
+@media (max-width: 700px){
+ .custom-iconImage{
+  width: 5rem;
+} 
+}
+

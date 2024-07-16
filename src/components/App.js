@@ -8,10 +8,6 @@ import Contacts from "./Contacts";
 
 
 function App() {
-  const customStyle = {
-    backgroundColor: 'red',
-    display: 'flex',
-  }
 
   return (
     <div className="container">
