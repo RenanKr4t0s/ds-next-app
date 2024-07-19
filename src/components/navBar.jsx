@@ -4,7 +4,7 @@ import logo from "../assets/dsLogo.jpg"
 
 export default function Navbar(){
   return(
-    <nav className="navbar navbar-expand-lg custom-nav">
+    <nav className="navbar navbar-expand-lg custom_fancy-text">
       <div className="container-fluid">
         <a className="navbar-brand" href="/">
             <img className="rounded" src={logo} alt='DSPresentes' width="50" height="50" />

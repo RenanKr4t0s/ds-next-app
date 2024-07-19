@@ -2,13 +2,18 @@
   --cor-primaria: #95628f;
   --cor-secundaria: #f8ede9;
   --cor-terciaria: #49274a;
-  --cor-hoover: #fff
+  --cor-hoover: #fff;
+  --font-styled: 'Daning Script', cursive;
+  --font-simple: 'Belleza', sans-serif;
 }
-.custom-nav{
-  /* background-color:var(--cor-primaria); */
+.custom-body{
+  font-family: var(--font-simple);
 }
 .custom-nav__itens{
   font-size: 1.5rem;
+}
+.custom_100vw{
+  width: 100vw;
 }
 .custom-nav__itens:hover{
   color: var(--cor-terciaria);
@@ -19,14 +24,35 @@
   background-color: var(--cor-terciaria);
   width: 100vw;
 }
-
+.custom_box-clear{
+  background-color:var(--cor-primaria);
+  width: 100vw;
+}
+.custom_simple-box{
+  background-color:var(--cor-secundaria);
+}
+.custom_simple-box-clear{
+  background-color:var(--cor-primaria);
+}
 .custom-fancyTipo{
   color: var(--cor-secundaria);
+  font-family: var(--font-styled);
+  font-weight: 200;
+  font-size: 3.5rem;
+}
+.custom-text{
+  line-height: 2.5rem;
+}
+.custom_fancy-text{
+  font-family: var(--font-styled);
 }
 
 @media (max-width: 700px){
- .custom-iconImage{
-  width: 5rem;
-} 
+  .custom-iconImage{
+    width: 5rem;
+  } 
+  .custom-fancyTipo{
+    font-size: 1.5rem;
+  }
 }
 

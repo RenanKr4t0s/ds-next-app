@@ -5,19 +5,19 @@ let navArray = [
     },
     {
         name: "Aluguel",
-        href: "/"
+        href: "#rent"
     },
     {
       name: "Quem somos",
-      href: "/"
+      href: "#whoami"
     },
     {
       name: "Dalva Souza",
-      href: "/"
+      href: "#profile"
     },
     {
       name: "Fale Conosco",
-      href: "/"
+      href: "#contacts"
     },
   ]
 

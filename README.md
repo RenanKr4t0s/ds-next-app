@@ -1,13 +1,9 @@
 # ds-presentes
-ds-presentes é um projeto desenvolvido em Next.js para criar uma landing page de divulgação da loja de flores. Este projeto visa proporcionar uma experiência visual atraente para apresentar os produtos e serviços da empresa.
-
-## Pendencias
-Enquanto estamos trabalhando no projeto as notas e requisitos estão no pendencias.md
+ds-presentes é um projeto desenvolvido em React com Bootstrap para criar uma landing page de divulgação de uma loja de flores eternas e presentes. Este projeto visa proporcionar uma experiência visual atraente para apresentar os produtos e serviços da empresa.
 
 ## Agradecimentos
 
-- Obrigado a Taynara que contribuiu muito para o conteúdo deste projeto.
-- Agradeço também ao Alisson Suassuna pelo suporte no desenvolvimento deste app.
+- Obrigado a Taynara que contribuiu muito para o conteúdo deste projeto com opiniões e textos.
 
 ## Tecnologias Utilizadas
 
@@ -33,21 +29,9 @@ Enquanto estamos trabalhando no projeto as notas e requisitos estão no pendenci
     npm install
     ```
 
-3. Execute o servidor de desenvolvimento:
+3. Execute o app:
     ```bash
-    npm run dev
+    npm start
     ```
 
-4. Abra [http://localhost:3000](http://localhost:3000) no seu navegador para ver o resultado.
-
-## Estrutura do Projeto
-
-    ├── components
-    ├── pages
-    │   ├── api
-    │   ├── _app.js
-    │   ├── index.js
-    ├── public
-    ├── styles
-    ├── .gitignore
-   
+4. O site deve abrir diretamente no seu navegador, caso não aconteça, abra [http://localhost:3000](http://localhost:3000) no seu navegador para ver o resultado.
