@@ -14,7 +14,7 @@ export default function Profile(){
                     Dalva, nascida em um lugar pequeno, no interior da Bahia, sempre amou as flores. Suas favoritas? As orquídeas. <br/>
                     Em meio a roça, rodeada por natureza, estudou, ensinou, costurou, dançou e ajudou sua família. <br/>
                     Acabou se apaixonando por seu melhor amigo de infância e, com ele, teve três filhos. Mas não é como se tudo estivesse fácil, por isso, decidiram ir para São Paulo, alimentar o sonho de crescer.<br/>
-                    E deu certo. <br/>
+                    E deu certo!<br/>
                     Começou vendendo na casa das pessoas. Fazia “reuniões” com a vizinhança para vender seus produtos, e não escondia o amor pelas flores, vasos e decorações. <br/>
                     </p>
                     <div className='row'>

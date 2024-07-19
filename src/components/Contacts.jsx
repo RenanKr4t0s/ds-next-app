@@ -31,7 +31,10 @@ export default function Contacts(){
                     <div className="col-md-4 col-12">
                         <h1 className='custom_fancy-text'>Endereço</h1>
                         <p className='h4 my-4 pe-3'>
-                            Rua Turquia, numero 199, bairro do Taboão, São Bernardo do Campo, SP.
+                            Rua Turquia, 199 <br/>
+                            Taboão<br/>
+                            São Bernardo do Campo<br/>
+                            São Paulo
                         </p>
                         <p className='h4'> CEP.: 09671-000</p>
                     </div>
