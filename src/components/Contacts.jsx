@@ -2,7 +2,7 @@ import image from '../assets/cerejeira.jpg'
 
 export default function Contacts(){
     return(
-        <div id='contacts' className='custom_simple-box custom_100vw'>
+        <div id='contacts' className='custom_bg-secundaria custom_100vw shadow-lg'>
             <div className="container my-5 px-5 pb-5">
                 <div className="row">
                     <div className="col-md-4 col-12">
@@ -15,17 +15,17 @@ export default function Contacts(){
                             className="custom-nav__itens link-secondary link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">
                             Facebook
                         </a></p>
-                        <p><a href="mailto:dspresentes@hotmail.com"
+                        <p><a href="https://wa.me//5511983577493?text=Bom%20dia%20!%20Gostaria%20de%20conversar"
                             className="custom-nav__itens link-secondary link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">
-                            dspresentes@hotmail.com
+                            Whatsapp (11)98357-7493
                         </a></p>
                         <p><a href="tel:+551141732582"
                             className="custom-nav__itens link-secondary link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">
                             Fone (11)4173-2582
                         </a></p>
-                        <p><a href="https://wa.me//5511983577493?text=Bom%20dia%20!%20Gostaria%20de%20conversar"
+                        <p><a href="mailto:dspresentes@hotmail.com"
                             className="custom-nav__itens link-secondary link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">
-                            Whatsapp (11)98357-7493
+                            dspresentes@hotmail.com
                         </a></p>
                     </div>
                     <div className="col-md-4 col-12">

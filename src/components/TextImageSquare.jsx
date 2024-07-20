@@ -13,7 +13,7 @@ export default function TextImageSquare(){
                     </p>
                 </div>
                 <div className='col-lg-6 col-12'>
-                    <img className='img-fluid rounded ' src={image} alt='Logo da DS'></img>
+                    <img className='img-fluid rounded shadow-lg' src={image} alt='Logo da DS'></img>
                 </div>
             </div>
         </div>

@@ -1,13 +1,13 @@
-import image from '../assets/DalvaSouza.png'
+import image from '../assets/DalvaSouza.jpeg'
 import detail from '../assets/fineLineFlowers.png'
 
 export default function Profile(){
     return(
         <div id='profile' className="container primary my-5 px-5 pb-5">
             <div className='row justify-content-center'>
-            <div className='col-lg-6 col-12 custom_simple-box-clear rounded'>
-                <img className='my-5 img-fluid rounded ' src={image} alt='Logo da DS'></img>
-            </div>
+                <div className='col-lg-6 col-12 custom_bg-primaria shadow rounded'>
+                    <img className='my-5 img-fluid rounded shadow' src={image} alt='Logo da DS'></img>
+                </div>
                 <div className='col-lg-6 col-12 ps-4'>
                     <h3 className='h1 mb-5'>Dalva Souza Presentes</h3>
                     <p className='h5'>

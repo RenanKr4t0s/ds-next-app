@@ -7,7 +7,7 @@ export default function Navbar(){
     <nav className="navbar navbar-expand-lg custom_fancy-text">
       <div className="container-fluid">
         <a className="navbar-brand" href="/">
-            <img className="rounded" src={logo} alt='DSPresentes' width="50" height="50" />
+            <img className="rounded shadow" src={logo} alt='DSPresentes' width="50" height="50" />
         </a>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" 
         data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" 

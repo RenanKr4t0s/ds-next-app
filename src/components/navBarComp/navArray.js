@@ -1,6 +1,6 @@
 let navArray = [
     {
-      name: "Home",
+      name: "Início",
       href: "#Home"
     },
     {

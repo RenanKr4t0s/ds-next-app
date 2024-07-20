@@ -1,6 +1,8 @@
 # ds-presentes
 ds-presentes é um projeto desenvolvido em React com Bootstrap para criar uma landing page de divulgação de uma loja de flores eternas e presentes. Este projeto visa proporcionar uma experiência visual atraente para apresentar os produtos e serviços da empresa.
 
+Veja o site em [DS-Presentes](https://ds-presentes-react.vercel.app/)
+
 ## Agradecimentos
 
 - Obrigado a Taynara que contribuiu muito para o conteúdo deste projeto com opiniões e textos.
@@ -34,4 +36,4 @@ ds-presentes é um projeto desenvolvido em React com Bootstrap para criar uma la
     npm start
     ```
 
-4. O site deve abrir diretamente no seu navegador, caso não aconteça, abra [http://localhost:3000](http://localhost:3000) no seu navegador para ver o resultado.
+4. O site deve abrir diretamente, caso não aconteça, abra [http://localhost:3000](http://localhost:3000) no seu navegador para ver o resultado.
