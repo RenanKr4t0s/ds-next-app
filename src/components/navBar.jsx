@@ -6,8 +6,9 @@ export default function Navbar(){
   return(
     <nav className="navbar navbar-expand-lg custom_fancy-text">
       <div className="container-fluid">
-        <a className="navbar-brand" href="/">
-            <img className="rounded shadow" src={logo} alt='DSPresentes' width="50" height="50" />
+        <a className="d-flex flex-row btn btn-outline-warning custom_bg-primaria" href="/">
+            <img className="" src={logo} alt='DSPresentes' width="50" height="50" />
+            <p className="mt-1 h1">Ds Presentes</p>
         </a>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" 
         data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" 
